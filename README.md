@@ -1,4 +1,4 @@
-# PS1: Linear Algebra
+# PS0: Linear Algebra
 
 ## Instructions
 * Submitting your work: Check the instructions for submission [here](https://geometric3d.github.io/pages/assignments.html)
